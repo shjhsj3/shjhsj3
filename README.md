@@ -1,6 +1,7 @@
 ```mermaid
-pie title 宠物的选择
-    "狗" : 386
-    "猫" : 85
-    "兔子" : 15 
+pie title Me
+    "C Language" : 386
+    "Python" : 85
+    "Java" : 15
+    "JavaScript" : 20
 ```
